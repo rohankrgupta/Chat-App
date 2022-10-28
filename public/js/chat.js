@@ -1,6 +1,6 @@
 const socket = io()
 
-// Elements
+// Elements name
 const $messageForm = document.querySelector('#msg-form')
 const $messageFormInput = $messageForm.querySelector('input')
 const $messageFormBtn = $messageForm.querySelector('button')
